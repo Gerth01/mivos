@@ -1,0 +1,18 @@
+{
+    "repositories": [
+        {
+            "url"           : "__url__",
+            "user"          : "__user__",
+            "pwd"           : "__pwd__",
+            "release_path"  : "__release__",
+            "snapshot_path" : "__snapshot__"
+        }
+    ],
+    "dependencies":[
+        {
+            "groupId"       : "__group__",
+            "artifactId"    : "__artifact__",
+            "version"       : "__version__"
+        }
+    ]
+}
